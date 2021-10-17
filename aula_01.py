@@ -1,5 +1,4 @@
-#Autor: João Tinti
-#Fork : José Alberto Rodrigues 19/09/2021
+#Fork : José Alberto Rodrigues 17/10/2021
 import pygame
 from pygame.locals import *
 from sys import exit
